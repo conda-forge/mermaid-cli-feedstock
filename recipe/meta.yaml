@@ -1,4 +1,4 @@
-{% set version = "11.15.0" %}
+{% set version = "11.17.0" %}
 
 package:
   name: mermaid-cli
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@mermaid-js/mermaid-cli/-/mermaid-cli-{{ version }}.tgz
-  sha256: f6fd0879dbf500e453784bbd9db92ae951097e0e9e8a90ec613f2bd3ca8fa06c
+  sha256: 23f2c2722262d98347cf979da6d88bc8693eef2cd8798a38ac393a7f006938a0
 
 build:
   number: 0
